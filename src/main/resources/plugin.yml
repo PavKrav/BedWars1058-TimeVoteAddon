@@ -1,0 +1,10 @@
+name: TimeVoteAddon
+version: 1.0.1
+main: com.example.timevote.TimeVoteAddon
+api-version: "1.20"
+depend: [BedWars1058]
+author: Pasa3
+commands:
+  vote:
+    description: Vote for daytime
+    usage: /vote <1-4>
